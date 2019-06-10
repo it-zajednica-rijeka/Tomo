@@ -9,6 +9,8 @@ Kompajliranje i pokretanje
     tsc
     node build/examples.js
 
+Video: <https://www.youtube.com/watch?v=qcXBHPhZs5M>
+
 ## Bilješke s peezentacije
 
 - Typescript
