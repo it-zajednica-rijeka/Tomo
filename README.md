@@ -4,6 +4,11 @@ Svi primjeri se nalase u `src/` direktoriju.
 
 Uzeti su iz službenog Typescript handbooka (<https://www.typescriptlang.org/docs/home.html>).
 
+Kompajliranje i pokretanje
+
+    tsc
+    node build/examples.js
+
 ## Bilješke s peezentacije
 
 - Typescript
